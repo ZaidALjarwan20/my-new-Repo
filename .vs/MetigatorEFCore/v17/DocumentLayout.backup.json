@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ZaidAbuGhalyoun\\source\\repos\\MetigatorEFCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1CE8DC49-E030-4A9A-95CD-12E4395869C8}|DigitalCurrencyEFC\\DigitalCurrencyEFC.csproj|c:\\users\\zaidabughalyoun\\source\\repos\\metigatorefcore\\digitalcurrencyefc\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CE8DC49-E030-4A9A-95CD-12E4395869C8}|DigitalCurrencyEFC\\DigitalCurrencyEFC.csproj|solutionrelative:digitalcurrencyefc\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CE8DC49-E030-4A9A-95CD-12E4395869C8}|DigitalCurrencyEFC\\DigitalCurrencyEFC.csproj|c:\\users\\zaidabughalyoun\\source\\repos\\metigatorefcore\\digitalcurrencyefc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CE8DC49-E030-4A9A-95CD-12E4395869C8}|DigitalCurrencyEFC\\DigitalCurrencyEFC.csproj|solutionrelative:digitalcurrencyefc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 120,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ZaidAbuGhalyoun\\source\\repos\\MetigatorEFCore\\DigitalCurrencyEFC\\Program.cs",
+              "RelativeDocumentMoniker": "DigitalCurrencyEFC\\Program.cs",
+              "ToolTip": "C:\\Users\\ZaidAbuGhalyoun\\source\\repos\\MetigatorEFCore\\DigitalCurrencyEFC\\Program.cs",
+              "RelativeToolTip": "DigitalCurrencyEFC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T15:10:22.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ZaidAbuGhalyoun\\source\\repos\\MetigatorEFCore\\DigitalCurrencyEFC\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DigitalCurrencyEFC\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ZaidAbuGhalyoun\\source\\repos\\MetigatorEFCore\\DigitalCurrencyEFC\\AppDbContext.cs",
+              "RelativeToolTip": "DigitalCurrencyEFC\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T15:05:29.294Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
