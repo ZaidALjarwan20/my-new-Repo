@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DigitalCurrencyEFC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a13ad13bfbdf3500a434f04c7d63daf36a034e60")]
 [assembly: System.Reflection.AssemblyProductAttribute("DigitalCurrencyEFC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DigitalCurrencyEFC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
